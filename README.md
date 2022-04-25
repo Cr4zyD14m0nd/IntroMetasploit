@@ -144,3 +144,6 @@ We will make an attack to two machines and escalate privilege.
 
     [5] How to put your adapter in Host only.
     [5] https://www.youtube.com/watch?v=FlP0YUKPHGo
+    
+    [6] PwnKit
+    [6] https://github.com/ly4k/PwnKit
