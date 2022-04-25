@@ -147,3 +147,7 @@ We will make an attack to two machines and escalate privilege.
     
     [6] PwnKit
     [6] https://github.com/ly4k/PwnKit
+    
+    [7] Download machines
+    [7] https://storage.googleapis.com/isos-iteso-esi-1/isos/WindowsServer2008.ova
+    [7] https://storage.googleapis.com/isos-iteso-esi-1/isos/ubuntuWeb_test.ova
