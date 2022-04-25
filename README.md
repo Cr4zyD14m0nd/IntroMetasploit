@@ -60,7 +60,7 @@ We will make an attack to two machines and escalate privilege.
 
     3. Now run the first script.
 
-        `./InstalacionSetoolkit.sh`
+        `./IntroMetasploit.sh`
 
     4. Now we have the script running and all the requirements installed, the next step is navigate through the menu.
 
